@@ -7,4 +7,5 @@ Con tantas marcas, precios y tamaños, a veces es difícil decidir qué pizza co
 *Disclaimer*: El creador de Pizzapp apoya fuertemente la pizza con piña.
 
 En [este gif](https://raw.githubusercontent.com/danielredondo/pizzapp/main/www/pizzapp.gif?token=GHSAT0AAAAAABQ26BCFO4FAQFBJN2ZDMDDUYQ54WBQ) puedes ver su funcionamiento:
+
 ![](www/pizzapp.gif)
